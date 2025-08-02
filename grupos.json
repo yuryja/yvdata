@@ -12,6 +12,6 @@
     {
         "id": "584127004113",
         "ciudad": "Caracas",
-        "hora_cron": "12 19 * * *"
+        "hora_cron": "0 20 * * *"
     }
 ]

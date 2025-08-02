@@ -1,0 +1,11 @@
+const GRUPOS_AUTOMATIZADOS = [
+    // Reemplaza "ID_DE_TU_GRUPO_1@g.us" con el ID real de tu grupo.
+    {
+        id: "120363395678651723@g.us",
+        ciudad: "Caracas"
+    },
+    {
+        id: "120363322644738140@g.us",
+        ciudad: "Barquisimeto"
+    },
+];

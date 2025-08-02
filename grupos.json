@@ -9,4 +9,9 @@
         "ciudad": "Barquisimeto",
         "hora_cron": "0 7 * * *"
     }
+    {
+        "id": "584127004113",
+        "ciudad": "Caracas",
+        "hora_cron": "12 19 * * *"
+    }
 ]

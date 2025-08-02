@@ -12,6 +12,6 @@
     {
         "id": "584127004113@c.us",
         "ciudad": "Caracas",
-        "hora_cron": "40 19 * * *"
+        "hora_cron": "36 19 * * *"
     }
 ]

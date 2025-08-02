@@ -1,37 +1,37 @@
 [
     {
-        nombre: "SO-50",
-        descripcion: "Satélite FM popular con transpondedor V/U. Ideal para principiantes.",
-        uplink: "145.850 MHz (tono 67.0 Hz)",
-        downlink: "436.800 MHz",
-        modo: "Voz (FM)"
+        "nombre": "SO-50",
+        "descripcion": "Satélite FM popular con transpondedor V/U. Ideal para principiantes.",
+        "uplink": "145.850 MHz (tono 67.0 Hz)",
+        "downlink": "436.800 MHz",
+        "modo": "Voz (FM)"
     },
     {
-        nombre: "ISS",
-        descripcion: "Repetidor de la Estación Espacial Internacional. ¡No es solo para astronautas!",
-        uplink: "144.490 MHz (regiones 2 y 3)",
-        downlink: "145.800 MHz",
-        modo: "Voz (FM), APRS"
+        "nombre": "ISS",
+        "descripcion": "Repetidor de la Estación Espacial Internacional. ¡No es solo para astronautas!",
+        "uplink": "144.490 MHz (regiones 2 y 3)",
+        "downlink": "145.800 MHz",
+        "modo": "Voz (FM), APRS"
     },
     {
-        nombre: "AO-91",
-        descripcion: "Satélite 'FM-EasySat' del tipo Fox. Funciona solo cuando está iluminado por el sol.",
-        uplink: "145.960 MHz (tono 67.0 Hz)",
-        downlink: "435.250 MHz",
-        modo: "Voz (FM)"
+        "nombre": "AO-91",
+        "descripcion": "Satélite 'FM-EasySat' del tipo Fox. Funciona solo cuando está iluminado por el sol.",
+        "uplink": "145.960 MHz (tono 67.0 Hz)",
+        "downlink": "435.250 MHz",
+        "modo": "Voz (FM)"
     },
     {
-        nombre: "AO-92",
-        descripcion: "Otro satélite de la serie Fox, también fácil de operar.",
-        uplink: "435.350 MHz (tono 67.0 Hz)",
-        downlink: "145.880 MHz",
-        modo: "Voz (FM)"
+        "nombre": "AO-92",
+        "descripcion": "Otro satélite de la serie Fox, también fácil de operar.",
+        "uplink": "435.350 MHz (tono 67.0 Hz)",
+        "downlink": "145.880 MHz",
+        "modo": "Voz (FM)"
     },
     {
-        nombre: "QO-100",
-        descripcion: "Satélite geoestacionario. Cobertura 24/7, pero requiere equipo más especializado.",
-        uplink: "2.4 GHz",
-        downlink: "10.5 GHz",
-        modo: "Transpondedor lineal"
+        "nombre": "QO-100",
+        "descripcion": "Satélite geoestacionario. Cobertura 24/7, pero requiere equipo más especializado.",
+        "uplink": "2.4 GHz",
+        "downlink": "10.5 GHz",
+        "modo": "Transpondedor lineal"
     }
-];
+]

@@ -1,4 +1,4 @@
-const SATELITES_DATA = [
+[
     {
         nombre: "SO-50",
         descripcion: "Satélite FM popular con transpondedor V/U. Ideal para principiantes.",

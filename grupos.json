@@ -18,5 +18,10 @@
         "id": "120363419632447273@g.us",
         "ciudad": "Caracas",
         "hora_cron": "0 6 * * *"
+    },
+    {
+        "id": "584241016300-1529535667@g.us",
+        "ciudad": "Caracas",
+        "hora_cron": "0 6 * * *"
     }
 ]

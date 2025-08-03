@@ -33,5 +33,12 @@
         "uplink": "2.4 GHz",
         "downlink": "10.5 GHz",
         "modo": "Transpondedor lineal"
+    },
+    {
+        "nombre": "AO-85",
+        "descripcion": "El AO-85 ha presentado fallas desde 2019. AMSAT reportó que el satélite dejó de funcionar de forma operativa, por lo tanto: En teoría es contactable, pero en la práctica puede no estar respondiendo.",
+        "uplink": "145.980 MHz (tono 67.0 Hz)",
+        "downlink": "435.180 MHz",
+        "modo": "Voz (FM)"
     }
 ]

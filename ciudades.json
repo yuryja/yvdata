@@ -171,5 +171,6 @@
   {"city":"Caicara","state":"Monagas","latitud":9.05,"longitud":-62.067},
   {"city":"Puerto Píritu","state":"Anzoátegui","latitud":10.06,"longitud":-65.04},
   {"city":"Pariaguán","state":"Anzoátegui","latitud":8.077,"longitud":-64.664},
-  {"city":"Urica","state":"Anzoátegui","latitud":9.789,"longitud":-64.129}
+  {"city":"Urica","state":"Anzoátegui","latitud":9.789,"longitud":-64.129},
+  {"city":"Charallave","state":"Miranda","latitud":10.243,"longitud":-66.862},
 ]

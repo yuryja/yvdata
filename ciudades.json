@@ -16,7 +16,7 @@
   {"city":"Barinas","state":"Barinas","latitud":8.636,"longitud":-70.211},
   {"city":"Los Teques","state":"Miranda","latitud":10.339,"longitud":-67.045},
   {"city":"Punto Fijo","state":"Falcón","latitud":11.701,"longitud":-70.198},
-  {"city":"La Guaira","state":"Vargas","latitud":10.598,"longitud":-66.953},
+  {"city":"La Guaira","state":"La Guaira","latitud":10.598,"longitud":-66.953},
   {"city":"Santa Teresa del Tuy","state":"Miranda","latitud":10.23,"longitud":-66.657},
   {"city":"El Vigía","state":"Mérida","latitud":8.625,"longitud":-71.65},
   {"city":"San Diego","state":"Carabobo","latitud":10.098,"longitud":-67.931},
@@ -173,5 +173,9 @@
   {"city":"Pariaguán","state":"Anzoátegui","latitud":8.077,"longitud":-64.664},
   {"city":"Urica","state":"Anzoátegui","latitud":9.789,"longitud":-64.129},
   {"city":"Charallave","state":"Miranda","latitud":10.243,"longitud":-66.862},
-  {"city":"Naiguatá","state":"La Guaira","latitud":10.587,"longitud":-66.667}
+  {"city":"Naiguatá","state":"La Guaira","latitud":10.587,"longitud":-66.667},
+  {"city":"Catia La Mar","state":"La Guaira","latitud":10.6,"longitud":-67.03},
+  {"city":"Maiquetía","state":"La Guaira","latitud":10.596,"longitud":-66.977},
+  {"city":"Caraballeda","state":"La Guaira","latitud":10.582,"longitud":-66.832},
+  {"city":"Macuto","state":"La Guaira","latitud":10.607,"longitud":-66.892}
 ]

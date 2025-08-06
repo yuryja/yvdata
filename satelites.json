@@ -21,7 +21,7 @@
     "modo": "Voz (FM)"
   },
   {
-    "nombre": "PO-101 (Diwata-2)",
+    "nombre": "PO-101",
     "descripcion": "Satélite con un repetidor de FM que opera de manera programada. Accesible desde Venezuela.",
     "uplink": "437.500 MHz (tono 141.3 Hz)",
     "downlink": "145.900 MHz",
@@ -56,21 +56,21 @@
     "modo": "Transpondedor lineal (SSB/CW)"
   },
   {
-    "nombre": "AO-73 (FUNcube-1)",
+    "nombre": "AO-73",
     "descripcion": "Un satélite de órbita baja con un transpondedor de banda estrecha que puede ser utilizado para telemetría y comunicación. Accesible desde Venezuela.",
     "uplink": "435.150 - 435.130 MHz (LSB/CW)",
     "downlink": "145.950 - 145.970 MHz (USB/CW)",
     "modo": "Transpondedor lineal (SSB/CW)"
   },
   {
-    "nombre": "IO-86 (Lapan-A2)",
+    "nombre": "IO-86",
     "descripcion": "Satélite de órbita ecuatorial, lo que significa que sus pasos sobre Venezuela son más frecuentes y de mayor duración. Posee un repetidor de FM y digipeater APRS.",
     "uplink": "145.880 MHz (FM) (tono 88.5 Hz) / 145.825 MHz (APRS)",
     "downlink": "435.880 MHz (FM) / 435.880 MHz (APRS)",
     "modo": "Voz (FM), APRS"
   },
   {
-    "nombre": "QO-100 (Es'hail-2)",
+    "nombre": "QO-100",
     "descripcion": "Este es un satélite geoestacionario, lo que significa que su señal está disponible las 24 horas del día. No tiene pasos orbitales. Es accesible desde Venezuela con una antena parabólica y el equipo adecuado para microondas.",
     "uplink": "2400.050 - 2400.300 MHz",
     "downlink": "10489.550 - 10489.800 MHz",

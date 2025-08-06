@@ -175,5 +175,6 @@
   {"city":"Catia La Mar","state":"La Guaira","latitud":10.6,"longitud":-67.03},
   {"city":"Maiquetía","state":"La Guaira","latitud":10.596,"longitud":-66.977},
   {"city":"Caraballeda","state":"La Guaira","latitud":10.582,"longitud":-66.832},
-  {"city":"Macuto","state":"La Guaira","latitud":10.607,"longitud":-66.892}
+  {"city":"Macuto","state":"La Guaira","latitud":10.607,"longitud":-66.892},
+  {"city":"Chachopo","state":"Mérida","latitud":8.937,"longitud":-70.764}
 ]

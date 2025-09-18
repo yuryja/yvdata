@@ -28,5 +28,10 @@
         "id": "584142097298-1465819276@g.us",
         "ciudad": "La Guaira",
         "hora_cron": "0 6 * * *"
+    },
+    {
+        "id": "120363315292073488@g.us",
+        "ciudad": "Caracas",
+        "hora_cron": "0 6 * * *"
     }
 ]

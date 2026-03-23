@@ -40,5 +40,11 @@
         "ciudad": "Caracas",
         "hora_cron": "0 6 * * *",
         "notificar": 1
+    },
+    {
+        "id": "584168590792-1579969121@g.us",
+        "ciudad": "San Felipe",
+        "hora_cron": "0 6 * * *",
+        "notificar": 1
     }
 ]

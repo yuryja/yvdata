@@ -669,7 +669,7 @@
     "estado": "Lara",
     "nombre_circuito": "Circuito 3",
     "ciudad": "Barquisimeto",
-    "status": false
+    "status": true
   },
   {
     "nombre_del_repetidor": "Miranda 1",

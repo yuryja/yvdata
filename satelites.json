@@ -1,79 +1,114 @@
 [
   {
-    "nombre": "SO-50",
-    "descripcion": "Satélite de radioaficionados FM muy popular y confiable. Es accesible desde Venezuela durante sus pasos orbitales.",
-    "uplink": "145.850 MHz (tono 67.0 Hz)",
-    "downlink": "436.800 MHz",
-    "modo": "Voz (FM)"
+    "nombre": "SO-50 (Saudi-OSCAR 50)",
+    "descripcion": "Veterano FM muy confiable. Requiere abrir el squelch con un tono inicial de 74.4 Hz durante 2 segundos.",
+    "uplink": "145.850 MHz (Tono 67.0 Hz)",
+    "downlink": "436.795 MHz",
+    "modo": "FM (Voz)",
+    "estado": "Activo"
   },
   {
-    "nombre": "AO-91",
-    "descripcion": "Satélite FM de la serie Fox. Es una excelente opción para principiantes. Accesible desde Venezuela.",
-    "uplink": "435.250 MHz (tono 67.0 Hz)",
+    "nombre": "AO-91 (RadFxSat / Fox-1B)",
+    "descripcion": "Excelente sensibilidad. Muy popular en pases nocturnos sobre Sudamérica.",
+    "uplink": "435.250 MHz (Tono 67.0 Hz)",
     "downlink": "145.960 MHz",
-    "modo": "Voz (FM)"
+    "modo": "FM (Voz)",
+    "estado": "Activo"
   },
   {
-    "nombre": "AO-92",
-    "descripcion": "Otro satélite de la serie Fox, con un repetidor de FM y un transpondedor SSB/CW. Accesible desde Venezuela.",
-    "uplink": "435.350 MHz (tono 67.0 Hz)",
-    "downlink": "145.880 MHz",
-    "modo": "Voz (FM)"
+    "nombre": "ISS (Zarya) - Repetidor",
+    "descripcion": "Repetidor de banda cruzada en la Estación Espacial. Muy potente cuando está en modo 'Crossband Repeater'.",
+    "uplink": "145.990 MHz (Tono 67.0 Hz)",
+    "downlink": "437.800 MHz",
+    "modo": "FM (Voz)",
+    "estado": "Variable"
   },
   {
-    "nombre": "PO-101",
-    "descripcion": "Satélite con un repetidor de FM que opera de manera programada. Accesible desde Venezuela.",
-    "uplink": "437.500 MHz (tono 141.3 Hz)",
+    "nombre": "ISS (Zarya) - APRS",
+    "descripcion": "Digipeater para envío de paquetes de datos y posicionamiento.",
+    "uplink": "145.825 MHz",
+    "downlink": "145.825 MHz",
+    "modo": "AX.25 1200bd AFSK",
+    "estado": "Activo"
+  },
+  {
+    "nombre": "PO-101 (Diwata-2B)",
+    "descripcion": "Satélite filipino con pasos muy limpios sobre Venezuela. Opera solo cuando está iluminado por el sol.",
+    "uplink": "437.500 MHz (Tono 141.3 Hz)",
     "downlink": "145.900 MHz",
-    "modo": "Voz (FM)"
+    "modo": "FM (Voz)",
+    "estado": "Programado"
   },
   {
-    "nombre": "ISS",
-    "descripcion": "La Estación Espacial Internacional. Su repetidor de FM no está siempre activo, pero cuando lo está, es muy popular. Accesible desde Venezuela.",
-    "uplink": "145.990 MHz (para la región de América)",
-    "downlink": "145.800 MHz",
-    "modo": "Voz (FM), APRS"
+    "nombre": "RS-44 (DOSAAF-85)",
+    "descripcion": "Transpondedor lineal de gran cobertura. Ideal para comunicados de larga distancia (DX).",
+    "uplink": "145.965 MHz (+/- 30 kHz LSB)",
+    "downlink": "435.640 MHz (+/- 30 kHz USB)",
+    "modo": "Lineal (SSB/CW)",
+    "estado": "Activo"
   },
   {
-    "nombre": "RS-44",
-    "descripcion": "Satélite ruso con un transpondedor lineal, ideal para SSB y CW. Accesible desde Venezuela.",
-    "uplink": "145.960 - 145.990 MHz",
-    "downlink": "435.605 - 435.635 MHz",
-    "modo": "Transpondedor lineal (SSB/CW)"
+    "nombre": "CAS-4A (Zhonghua-2A)",
+    "descripcion": "Satélite chino con transpondedor lineal muy estable.",
+    "uplink": "435.220 MHz (+/- 10 kHz LSB)",
+    "downlink": "145.870 MHz (+/- 10 kHz USB)",
+    "modo": "Lineal (SSB/CW)",
+    "estado": "Activo"
   },
   {
-    "nombre": "FO-29",
-    "descripcion": "Un satélite japonés muy conocido con un transpondedor lineal. Accesible desde Venezuela.",
-    "uplink": "145.900 - 146.000 MHz (LSB/CW)",
-    "downlink": "435.800 - 435.900 MHz (USB/CW)",
-    "modo": "Transpondedor lineal (SSB/CW)"
+    "nombre": "CAS-4B (Zhonghua-2B)",
+    "descripcion": "Hermano del CAS-4A, excelentes señales en VHF.",
+    "uplink": "435.280 MHz (+/- 10 kHz LSB)",
+    "downlink": "145.925 MHz (+/- 10 kHz USB)",
+    "modo": "Lineal (SSB/CW)",
+    "estado": "Activo"
   },
   {
-    "nombre": "AO-7",
-    "descripcion": "Uno de los satélites más antiguos en operación. Su modo B está activo y es ideal para transpondedor lineal. Accesible desde Venezuela.",
-    "uplink": "432.125 - 432.175 MHz",
-    "downlink": "145.975 - 145.925 MHz",
-    "modo": "Transpondedor lineal (SSB/CW)"
+    "nombre": "XW-2A (Xiwang-2A)",
+    "descripcion": "Frecuencias muy precisas. Ideal para probar antenas y técnica de Doppler.",
+    "uplink": "435.030 - 435.050 MHz (LSB)",
+    "downlink": "145.665 - 145.685 MHz (USB)",
+    "modo": "Lineal (SSB/CW)",
+    "estado": "Activo"
   },
   {
-    "nombre": "AO-73",
-    "descripcion": "Un satélite de órbita baja con un transpondedor de banda estrecha que puede ser utilizado para telemetría y comunicación. Accesible desde Venezuela.",
-    "uplink": "435.150 - 435.130 MHz (LSB/CW)",
-    "downlink": "145.950 - 145.970 MHz (USB/CW)",
-    "modo": "Transpondedor lineal (SSB/CW)"
+    "nombre": "JO-97 (NEXUS)",
+    "descripcion": "Satélite pequeño con transpondedor lineal. Requiere buena antena.",
+    "uplink": "435.052 - 435.072 MHz (LSB)",
+    "downlink": "145.903 - 145.923 MHz (USB)",
+    "modo": "Lineal (SSB/CW)",
+    "estado": "Activo"
   },
   {
-    "nombre": "IO-86",
-    "descripcion": "Satélite de órbita ecuatorial, lo que significa que sus pasos sobre Venezuela son más frecuentes y de mayor duración. Posee un repetidor de FM y digipeater APRS.",
-    "uplink": "145.880 MHz (FM) (tono 88.5 Hz) / 145.825 MHz (APRS)",
-    "downlink": "435.880 MHz (FM) / 435.880 MHz (APRS)",
-    "modo": "Voz (FM), APRS"
+    "nombre": "Tevel (1 al 8)",
+    "descripcion": "Constelación de CubeSats con repetidores FM. Nota: Solo uno suele estar activo por zona.",
+    "uplink": "436.400 MHz (Tono 67.0 Hz)",
+    "downlink": "145.970 MHz",
+    "modo": "FM (Voz)",
+    "estado": "Activo (Rotativo)"
   },
   {
-    "nombre": "QO-100",
-    "descripcion": "Este es un satélite geoestacionario, lo que significa que su señal está disponible las 24 horas del día. No tiene pasos orbitales. Es accesible desde Venezuela con una antena parabólica y el equipo adecuado para microondas.",
-    "uplink": "2400.050 - 2400.300 MHz",
-    "downlink": "10489.550 - 10489.800 MHz",
-    "modo": "Transpondedor lineal (SSB/CW)"
+    "nombre": "UVSQ-SAT",
+    "descripcion": "Satélite enfocado en datos, pero con capacidad de repetidor FM ocasional.",
+    "uplink": "435.270 MHz (Tono 121.8 Hz)",
+    "downlink": "145.905 MHz",
+    "modo": "FM (Voz) / Datos",
+    "estado": "Activo"
+  },
+  {
+    "nombre": "AO-7 (OSCAR 7)",
+    "descripcion": "Lanzado en 1974, sigue vivo por energía solar. Cambia de modo (A o B) según la carga.",
+    "uplink": "432.125 - 432.175 MHz (LSB)",
+    "downlink": "145.975 - 145.925 MHz (USB)",
+    "modo": "Lineal (SSB/CW)",
+    "estado": "Activo (Solo sol)"
+  },
+  {
+    "nombre": "QO-100 (Es'hail 2)",
+    "descripcion": "Geoestacionario. Desde Venezuela está muy bajo en el horizonte (Este), requiere línea de vista despejada al mar/horizonte.",
+    "uplink": "2400.050 MHz",
+    "downlink": "10489.550 MHz",
+    "modo": "SSB/CW/DATV",
+    "estado": "Activo"
   }
 ]

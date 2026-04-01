@@ -1,1 +1,133 @@
-
+[
+  {
+    "nombre": "Radio Club Uruguayo",
+    "pais": "Uruguay",
+    "sitio": "https://www.cx1aa.org",
+    "feed_o_fuente": "https://www.cx1aa.org/boletines.php?grupo=1",
+    "idioma": "es",
+    "tipo": "boletines del club",
+    "actualizacion_reciente": true,
+    "evidencia": [
+      {
+        "url": "https://www.cx1aa.org",
+        "detalle": "Sitio institucional activo"
+      },
+      {
+        "url": "https://www.cx1aa.org/boletines.php?grupo=1",
+        "detalle": "Página de boletines del club"
+      }
+    ]
+  },
+  {
+    "nombre": "Radio Club de Concepción",
+    "pais": "Chile",
+    "sitio": "https://www.ce5ja.cl",
+    "feed_o_fuente": "https://www.ce5ja.cl/",
+    "idioma": "es",
+    "tipo": "blog/radioclub",
+    "actualizacion_reciente": true,
+    "evidencia": [
+      {
+        "url": "https://www.ce5ja.cl/invitacion-para-recibir-senales-sstv-desde-la-estacion-espacial/",
+        "fecha_detectada": "2025-09-29"
+      },
+      {
+        "url": "https://www.ce5ja.cl/felices-fiestas-de-navidad-y-ano-nuevo/",
+        "detalle": "Contenido institucional reciente"
+      }
+    ]
+  },
+  {
+    "nombre": "Radio Club Santa Rosa",
+    "pais": "Argentina",
+    "sitio": "https://lu1um.org",
+    "feed_o_fuente": "https://lu1um.org/posts/",
+    "idioma": "es",
+    "tipo": "blog/radioclub",
+    "actualizacion_reciente": true,
+    "evidencia": [
+      {
+        "url": "https://lu1um.org/posts/",
+        "detalle": "Lista de posts con fechas 2025"
+      },
+      {
+        "url": "https://lu1um.org/posts/star-facts/",
+        "fecha_detectada": "2025-05-04"
+      }
+    ]
+  },
+  {
+    "nombre": "Radio Club Argentino",
+    "pais": "Argentina",
+    "sitio": "https://www.lu4aa.org",
+    "feed_o_fuente": "https://www.lu4aa.org/wp/indice-revista-institucional/",
+    "idioma": "es",
+    "tipo": "revista/boletín institucional",
+    "actualizacion_reciente": true,
+    "evidencia": [
+      {
+        "url": "https://www.lu4aa.org/wp/indice-revista-institucional/",
+        "fecha_detectada": "2025-09-29"
+      },
+      {
+        "url": "https://www.lu4aa.org/area_socios/revista/descarga2.php?revista=89",
+        "detalle": "Boletín electrónico institucional para radioaficionados"
+      }
+    ]
+  },
+  {
+    "nombre": "CQ CQ Nuevos Radioaficionados",
+    "pais": "Chile",
+    "sitio": "https://cqham.blogspot.com",
+    "feed_o_fuente": "https://cqham.blogspot.com",
+    "idioma": "es",
+    "tipo": "blog de radioafición",
+    "actualizacion_reciente": true,
+    "evidencia": [
+      {
+        "url": "https://cqham.blogspot.com",
+        "fecha_detectada": "2026-01-11"
+      }
+    ]
+  },
+  {
+    "pais": "Paraguay",
+    "nombre": "Radio Club Paraguayo",
+    "sitio": "https://www.qsl.net/zp6cc/2radclub.htm",
+    "tipo": "radioclub nacional",
+    "actualizacion_reciente": false,
+    "observacion": "Fuente histórica; no se confirmó blog/feed reciente."
+  },
+  {
+    "pais": "Bolivia",
+    "nombre": "Radio Club La Paz / CP1AA",
+    "sitio": "https://www.qsl.net/cp1aa/",
+    "tipo": "radioclub",
+    "actualizacion_reciente": false,
+    "observacion": "Sitio histórico; no se confirmó actividad reciente."
+  },
+  {
+    "pais": "Perú",
+    "nombre": "Radio Club Peruano OA4O",
+    "sitio": "https://www.qsl.net/oa4o/index_archivos/radioclub.htm",
+    "tipo": "radioclub",
+    "actualizacion_reciente": true,
+    "observacion": "Fuente institucional activa, pero sin feed RSS confirmado."
+  },
+  {
+    "pais": "Perú",
+    "nombre": "PEOCRA",
+    "sitio": "https://peocra.com",
+    "tipo": "club de radioaficionados",
+    "actualizacion_reciente": true,
+    "observacion": "Portal activo en español."
+  },
+  {
+    "pais": "Ecuador",
+    "nombre": "Quito Radio Club",
+    "sitio": "https://www.quitoradioclub.com",
+    "tipo": "radioclub",
+    "actualizacion_reciente": false,
+    "observacion": "Sitio institucional activo, sin verificación de publicaciones recientes."
+  }
+]

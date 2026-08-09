@@ -5,13 +5,13 @@
     "frecuencia_rx_mhz": 146.64,
     "frecuencia_tx_mhz": 146.04,
     "offset_split": "-600 kHz",
-    "tono_hz": No aplica,
+    "tono_hz": 0.0,
     "modo_analogo": "FM",
     "modo_digital": DMR Adn System,
     "estado": "Carabobo",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Cerro el cafe",
-    "status": Activa
+    "status": true
   },
   {
     "nombre_del_repetidor": "Repetidor 146.700",
@@ -25,7 +25,7 @@
     "estado": "Carabobo",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Cerro el cafe",
-    "status": Activo
+    "status": true
   },
   {
     "nombre_del_repetidor": "Repetidor 146.700",
@@ -39,7 +39,7 @@
     "estado": "Zulia",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Maracaibo",
-    "status": Activo
+    "status": true
   },
   {
     "nombre_del_repetidor": "Repetidor 146.730",
@@ -53,7 +53,7 @@
     "estado": "Yaracuy",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Nirgua",
-    "status": Activa
+    "status": true
   },
   {
     "nombre_del_repetidor": "Repetidor 146.790",
@@ -81,7 +81,7 @@
     "estado": "Venezuela",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Desconocida",
-    "status": Inactivo
+    "status": flase
   },
   {
     "nombre_del_repetidor": "Repetidor 146.880",
@@ -95,7 +95,7 @@
     "estado": "Miranda",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Los teques",
-    "status": Activa
+    "status": true
   },
   {
     "nombre_del_repetidor": "Repetidor 146.940",
@@ -123,7 +123,7 @@
     "estado": "Aragua",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Jeremba",
-    "status": Activo
+    "status": true
   },
   {
     "nombre_del_repetidor": "Repetidor 147.060",
@@ -137,7 +137,7 @@
     "estado": "Miranda",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Araya",
-    "status": Activo
+    "status": true
   },
   {
     "nombre_del_repetidor": "Repetidor 147.090",
@@ -148,10 +148,10 @@
     "tono_hz": ,
     "modo_analogo": "FM",
     "modo_digital": DMR BrandMeister,
-    "estado": "Gu�rico",
+    "estado": "Guárico",
     "nombre_circuito": "Circuito VHF",
-    "ciudad": "Cerro Platill�n",
-    "status": Activo
+    "ciudad": "Cerro Platillón",
+    "status": true
   }
   {
     "nombre_del_repetidor": "Repetidor 147.150",
@@ -165,7 +165,7 @@
     "estado": "Yaracuy",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "San Felipe",
-    "status": Activo
+    "status": true
   },
   {
     "nombre_del_repetidor": "Repetidor 147.150",
@@ -179,7 +179,7 @@
     "estado": "La Guaira",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Galipan",
-    "status": Activo
+    "status": true
   }
   {
     "nombre_del_repetidor": "Repetidor 147.180",
@@ -193,7 +193,7 @@
     "estado": "Carabobo",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Cerro el cafe",
-    "status": Activa
+    "status": true
   },
   {
     "nombre_del_repetidor": "Repetidor 147.210",
@@ -207,7 +207,7 @@
     "estado": "Aragua",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Maracay",
-    "status": Activa
+    "status": true
   },
   {
     "nombre_del_repetidor": "Repetidor 147.240",
@@ -221,7 +221,7 @@
     "estado": "Miranda",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Alto Hatillo",
-    "status": Activa
+    "status": true
   },
   {
     "nombre_del_repetidor": "Repetidor 147.390",
@@ -232,7 +232,7 @@
     "tono_hz": no aplica,
     "modo_analogo": "FM",
     "modo_digital": DMR BrandMeister,
-    "estado": "Gu�rico",
+    "estado": "Guárico",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Altagracia de Orituco",
     "status": Activo
@@ -249,7 +249,7 @@
     "estado": "Sucre",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Carupano",
-    "status": Activo
+    "status": true
   },
   {
     "nombre_del_repetidor": "Repetidor 147.360",
@@ -263,7 +263,7 @@
     "estado": "Distrito Capital",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Caracas",
-    "status": Activo
+    "status": true
   },
   {
     "nombre_del_repetidor": "Repetidor 438.125",
@@ -277,7 +277,7 @@
     "estado": "Distrito Capital",
     "nombre_circuito": "Circuito UHF",
     "ciudad": "Caracas",
-    "status": Activo
+    "status": true
   },
   {
     "nombre_del_repetidor": "Repetidor 439.675",
@@ -305,7 +305,7 @@
     "estado": "Zulia",
     "nombre_circuito": "Circuito",
     "ciudad": "Ciudad Ojeda",
-    "status": Activo
+    "status": true
   },
   {
     "nombre_del_repetidor": "Repetidor 439.600",

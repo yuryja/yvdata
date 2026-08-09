@@ -7,7 +7,7 @@
     "offset_split": "-600 kHz",
     "tono_hz": 0.0,
     "modo_analogo": "FM",
-    "modo_digital": DMR Adn System,
+    "modo_digital": "DMR Adn System",
     "estado": "Carabobo",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Cerro el cafe",
@@ -81,7 +81,7 @@
     "estado": "Venezuela",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Desconocida",
-    "status": flase
+    "status": false
   },
   {
     "nombre_del_repetidor": "Repetidor 146.880",
@@ -188,8 +188,8 @@
     "frecuencia_tx_mhz": 147.78,
     "offset_split": "+600 kHz",
     "tono_hz": ,
-    "modo_analogo": "",
-    "modo_digital": DMR,
+    "modo_analogo": "FM",
+    "modo_digital": "DMR",
     "estado": "Carabobo",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Cerro el cafe",
@@ -229,13 +229,13 @@
     "frecuencia_rx_mhz": 147.39,
     "frecuencia_tx_mhz": 147.99,
     "offset_split": "+600 kHz",
-    "tono_hz": no aplica,
+    "tono_hz": 0.0,
     "modo_analogo": "FM",
     "modo_digital": "DMR BrandMeister",
     "estado": "Guárico",
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Altagracia de Orituco",
-    "status": Activo
+    "status": true
   },
   {
     "nombre_del_repetidor": "Repetidor 147.330",

@@ -58,5 +58,11 @@
         "ciudad": "Caracas",
         "hora_cron": "0 6 * * *",
         "notificar": 1
+    },
+    {
+        "id": "120363412329634071@g.us",
+        "ciudad": "Caracas",
+        "hora_cron": "0 6 * * *",
+        "notificar": 1
     }
 ]

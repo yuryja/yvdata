@@ -152,7 +152,7 @@
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Cerro Platillón",
     "status": true
-  }
+  },
   {
     "nombre_del_repetidor": "Repetidor 147.150",
     "banda": "VHF",
@@ -180,14 +180,14 @@
     "nombre_circuito": "Circuito VHF",
     "ciudad": "Galipan",
     "status": true
-  }
+  },
   {
     "nombre_del_repetidor": "Repetidor 147.180",
     "banda": "VHF",
     "frecuencia_rx_mhz": 147.18,
     "frecuencia_tx_mhz": 147.78,
     "offset_split": "+600 kHz",
-    "tono_hz": ,
+    "tono_hz": null,
     "modo_analogo": "FM",
     "modo_digital": "DMR",
     "estado": "Carabobo",
@@ -320,5 +320,5 @@
     "nombre_circuito": "Circuito",
     "ciudad": "Caracas",
     "status": false
-  },
+  }
 ]
